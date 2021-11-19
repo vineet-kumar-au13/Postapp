@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node app"
   },
-  "author": "vineet",
+  "author": "vineet kumar",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
